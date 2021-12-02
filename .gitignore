@@ -1,0 +1,7 @@
+.idea/*
+*.json
+null/*
+*.class
+project/*
+*.jar
+target/*
